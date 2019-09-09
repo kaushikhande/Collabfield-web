@@ -66,3 +66,5 @@ gem "bootstrap-sass", ">= 3.4.1"
 gem 'jquery-rails'
 
 gem 'devise'
+
+gem 'bootstrap_form'
