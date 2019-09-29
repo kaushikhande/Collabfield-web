@@ -62,6 +62,7 @@ group :test do
   gem 'headless'
   gem 'poltergeist'
   gem 'database_cleaner'
+  gem 'phantomjs', :require => 'phantomjs/poltergeist'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
